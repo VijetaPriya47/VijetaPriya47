@@ -4,7 +4,7 @@
 </h1>
 </h1>
 <h3 align="center">Hi to all my Tech Buddies! 👩‍💻 I'm an aspiring Software Developer. I like cats but hate bugs in my code.</h3>
-<style>
+<styles>
 h2{
   width: max-content;
   position: relative;
@@ -26,7 +26,7 @@ h2::after{
 h2:hover::after{
   transform: scaleX(1);
 }
-</style>
+</styles>
 
 
 
