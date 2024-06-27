@@ -31,7 +31,7 @@ h2:hover::after{
 
 
 <h2>💫 About Me:</h2>
-🔭 I'm Vijeta Priya, a determined Undergrad at NIT Agartala. My fervor for software engineering propels me to excel in DSA, Competitive Programming, Web Development, and Machine Learning basics. <br>With a passion for experimenting, I always strive to learn something new and try my hands at multiple things. <br>I’m currently working on BlockChain and GoLang.
+🔭 I'm Vijeta Priya, a determined Undergrad at NIT Agartala. My fervour for software engineering propels me to excel in DSA, Competitive Programming, Web Development, and Machine Learning basics. <br>With a passion for experimenting, I always strive to learn something new and try my hands at multiple things. <br>I’m currently working on BlockChain and GoLang.
 
 <img align="right" alt="coding" width="300" height="290" src="cats.gif">
 
@@ -49,14 +49,6 @@ h2:hover::after{
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VijetaPriya47&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VijetaPriya47limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VijetaPriya47&icon=6&color=11)](https://visitcount.itsvg.in)
