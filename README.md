@@ -4,11 +4,33 @@
 </h1>
 </h1>
 <h3 align="center">Hi to all my Tech Buddies! 👩‍💻 I'm an aspiring Software Developer. I like cats but hate bugs in my code.</h3>
+<style>
+h2{
+  width: max-content;
+  position: relative;
+  cursor: pointer;
+  /* margin: 100px auto; */
+}
+h2::after{
+  content:"";
+  position: absolute;
+  bottom:-5px;
+  height: 4px;
+  width: 200px;
+  left: 0;
+  background-color: #490351;
+  transition: 0.3s;
+  transition-timing-function: ease-in-out;
+  transform: scaleX(0);
+}
+h2:hover::after{
+  transform: scaleX(1);
+}
+</style>
 
 
 
-
-# 💫 About Me:
+<h2># 💫 About Me:</h2>
 🔭 I'm Vijeta Priya, a determined Undergrad at NIT Agartala. My fervor for software engineering propels me to excel in DSA, Competitive Programming, Web Development, and Machine Learning basics. <br>With a passion for learning, I surpass challenges and am committed to refining my skills for optimal performance. I eagerly seek collaboration and growth opportunities in the tech sector. <br>I’m currently working on Personal Projects🌱 .
 
 <img align="right" alt="coding" width="300" height="290" src="cats.gif">
