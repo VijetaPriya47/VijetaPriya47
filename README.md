@@ -5,9 +5,7 @@
 </h1>
 <h3 align="center">Hi to all my Tech Buddies! 👩‍💻 I'm an aspiring Software Developer. A like cats and but don't like bugs in my code.</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=VijetaPriya47&label=Profile%20views&color=00FF00&style=flat" alt="Vijeta Priya" />
-</p>
+
 <img align="right" alt="coding" width="300" height="290" src="https://pin.it/5VywTylMP">
 
 # 💫 About Me:
