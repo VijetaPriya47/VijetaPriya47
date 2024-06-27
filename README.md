@@ -3,7 +3,7 @@
 </div>
 </h1>
 </h1>
-<h3 align="center">Hi to all my Tech Buddies! 👩‍💻 I'm an aspiring Software Developer. A like cats and but don't like bugs in my code.</h3>
+<h3 align="center">Hi to all my Tech Buddies! 👩‍💻 I'm an aspiring Software Developer. A like cats but hate bugs in my code.</h3>
 
 
 
@@ -11,7 +11,7 @@
 # 💫 About Me:
 🔭 I'm Vijeta Priya, a determined Undergrad at NIT Agartala. My fervor for software engineering propels me to excel in DSA, Competitive Programming, Web Development, and Machine Learning basics. <br>With a passion for learning, I surpass challenges and am committed to refining my skills for optimal performance. I eagerly seek collaboration and growth opportunities in the tech sector. <br>I’m currently working on Personal Projects🌱 .
 
-<img align="right" alt="coding" width="300" height="290" src="https://pin.it/5VywTylMP">
+<img align="right" alt="coding" width="300" height="290" src="<img align="right" alt="coding" width="300" height="290" src="cats.gif">
 
 
 ## 🌐 Socials:
