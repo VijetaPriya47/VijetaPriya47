@@ -3,7 +3,7 @@
 </div>
 </h1>
 </h1>
-<h3 align="center">Hi to all my Tech Buddies! 👩‍💻 I'm an aspiring Software Developer. I like cats but hate bugs in my code.</h3>
+<h3 align="center">I like cats but hate bugs in my code.</h3>
 <!-- <style>
 h2{
   width: max-content;
