@@ -33,7 +33,7 @@ h2:hover::after{
 <h2>💫 About Me:</h2>
 🔭 I'm Vijeta Priya, a determined Undergrad at NIT Agartala. My fervour for software engineering propels me to excel in DSA, Competitive Programming, Web Development, and Machine Learning basics. <br>With a passion for experimenting, I always strive to learn something new and try my hands at multiple things. <br>I’m currently working on BlockChain and GoLang.
 
-<img align="right" alt="coding" width="300" height="290" src="cats.gif">
+<img align="right" alt="coding" width="100" height="90" src="cats.gif">
 
 
 ## 🌐 Socials:
