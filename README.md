@@ -48,10 +48,11 @@ h2:hover::after{
 | :--- | :--- | :--- |
 | **[fix: changed GitPod References to Ona (!2806)](https://gitlab.com/gitlab-org/terraform-provider-gitlab/-/merge_requests/2806)** | Merged | Fixed a broken badge by removing Gitpod integration and updating references to Ona. |
 | **[feat: add gitlab_group_service_account_access_tokens data source (!2805)](https://gitlab.com/gitlab-org/terraform-provider-gitlab/-/merge_requests/2805)** | Merged | Implemented a new data source to retrieve access tokens for group service accounts. |
-| **[feat: add gitlab_compliance_requirement resource (!2804)](https://gitlab.com/gitlab-org/terraform-provider-gitlab/-/merge_requests/2804)** | Open | Created a new resource to manage compliance requirements within GitLab. |
-| **[Add gitlab_project_package_dependency_proxy resource (!2802)](https://gitlab.com/gitlab-org/terraform-provider-gitlab/-/merge_requests/2802)** | Open | Added a resource for configuring the project package dependency proxy. |
 | **[Add gitlab_artifact_file data source (!2721)](https://gitlab.com/gitlab-org/terraform-provider-gitlab/-/merge_requests/2721)** | Merged | Added a data source to download specific artifact files from a tag or branch. |
 | **[Updated DetermineExpiryDate function signature in utils/expiry_date.go to handle the new return type(!2722)](https://gitlab.com/gitlab-org/terraform-provider-gitlab/-/merge_requests/2722)** | Merged | Fixed a race condition |
+| **[Add gitlab_project_package_dependency_proxy resource (!2802)](https://gitlab.com/gitlab-org/terraform-provider-gitlab/-/merge_requests/2802)** | Merged | Added a resource for configuring the project package dependency proxy. |
+| **[feat: add gitlab_compliance_requirement resource (!2804)](https://gitlab.com/gitlab-org/terraform-provider-gitlab/-/merge_requests/2804)** | Open | Created a new resource to manage compliance requirements within GitLab. |
+| **[Allow gitlab_project_label name updates without replacement (!2719)](https://gitlab.com/gitlab-org/terraform-provider-gitlab/-/merge_requests/2719)** | Open | Proposed changes to allow updating project label names without forcing a resource replacement. |
 
 
 # 📊 GitHub Stats:
