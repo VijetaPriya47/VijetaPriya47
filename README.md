@@ -41,6 +41,19 @@ h2:hover::after{
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=plastic&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) 
+
+### GitLab Terraform Provider Contributions
+
+| Merge Request | Status | Description |
+| :--- | :--- | :--- |
+| **[fix: changed GitPod References to Ona (!2806)](https://gitlab.com/gitlab-org/terraform-provider-gitlab/-/merge_requests/2806)** | Merged | Fixed a broken badge by removing Gitpod integration and updating references to Ona. |
+| **[feat: add gitlab_group_service_account_access_tokens data source (!2805)](https://gitlab.com/gitlab-org/terraform-provider-gitlab/-/merge_requests/2805)** | Merged | Implemented a new data source to retrieve access tokens for group service accounts. |
+| **[feat: add gitlab_compliance_requirement resource (!2804)](https://gitlab.com/gitlab-org/terraform-provider-gitlab/-/merge_requests/2804)** | Open | Created a new resource to manage compliance requirements within GitLab. |
+| **[Add gitlab_project_package_dependency_proxy resource (!2802)](https://gitlab.com/gitlab-org/terraform-provider-gitlab/-/merge_requests/2802)** | Open | Added a resource for configuring the project package dependency proxy. |
+| **[Add gitlab_artifact_file data source (!2721)](https://gitlab.com/gitlab-org/terraform-provider-gitlab/-/merge_requests/2721)** | Merged | Added a data source to download specific artifact files from a tag or branch. |
+| **[Updated DetermineExpiryDate function signature in utils/expiry_date.go to handle the new return type(!2722)](https://gitlab.com/gitlab-org/terraform-provider-gitlab/-/merge_requests/2722)** | Merged | Fixed a race condition |
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=VijetaPriya47&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VijetaPriya47&theme=great-gatsby&hide_border=false)<br/>
