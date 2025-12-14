@@ -31,7 +31,7 @@ h2:hover::after{
 
 
 <h2>💫 About Me:</h2>
-🔭 I'm Vijeta Priya, a determined Undergrad at NIT Agartala. My fervour for software engineering propels me to excel in DSA, Competitive Programming, Web Development, and Machine Learning basics. <br>With a passion for experimenting, I always strive to learn something new and try my hands at multiple things. <br>I’m currently working on BlockChain and GoLang.
+🔭 I'm Vijeta Priya, a determined Undergrad at NIT Agartala. My fervour for software engineering propels me to excel in DSA, Competitive Programming, Web Development, and Machine Learning basics. <br>With a passion for experimenting, I always strive to learn something new and try my hands at multiple things. <br>I’m currently working on DevOps and GoLang.
 
 <img align="right" alt="coding" width="300" height="290" src="cats.gif">
 
@@ -51,8 +51,8 @@ h2:hover::after{
 | **[Add gitlab_artifact_file data source (!2721)](https://gitlab.com/gitlab-org/terraform-provider-gitlab/-/merge_requests/2721)** | Merged | Added a data source to download specific artifact files from a tag or branch. |
 | **[Updated DetermineExpiryDate function signature in utils/expiry_date.go to handle the new return type(!2722)](https://gitlab.com/gitlab-org/terraform-provider-gitlab/-/merge_requests/2722)** | Merged | Fixed a race condition |
 | **[Add gitlab_project_package_dependency_proxy resource (!2802)](https://gitlab.com/gitlab-org/terraform-provider-gitlab/-/merge_requests/2802)** | Merged | Added a resource for configuring the project package dependency proxy. |
+| **[Allow gitlab_project_label name updates without replacement (!2719)](https://gitlab.com/gitlab-org/terraform-provider-gitlab/-/merge_requests/2719)** | Merged | Proposed changes to allow updating project label names without forcing a resource replacement. |
 | **[feat: add gitlab_compliance_requirement resource (!2804)](https://gitlab.com/gitlab-org/terraform-provider-gitlab/-/merge_requests/2804)** | Open | Created a new resource to manage compliance requirements within GitLab. |
-| **[Allow gitlab_project_label name updates without replacement (!2719)](https://gitlab.com/gitlab-org/terraform-provider-gitlab/-/merge_requests/2719)** | Open | Proposed changes to allow updating project label names without forcing a resource replacement. |
 | **[fix(issue-6546): trigger token rotation when expiration_days changes(!2826)](https://gitlab.com/gitlab-org/terraform-provider-gitlab/-/merge_requests/2826)** | Open |  Modified the ModifyPlan function in internal/provider/resource_gitlab_project_access_token.go to explicitly check for changes in rotation_configuration.expiration_days. If a change is detected, it now forces a plan update to rotate the token.
 |
 
