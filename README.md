@@ -61,6 +61,7 @@ h2:hover::after{
 | Project | Pull Request | Status | Description |
 | :--- | :--- | :--- | :--- |
 | **Hyperledger Fablo** | **[fix: Verify if post-generate.sh exists before executing (!521)](https://github.com/hyperledger-labs/fablo/pull/521)** | Merged | Fixed a bug where the network generation script would fail if the optional `post-generate.sh` hook was missing. |
+| **Hyperledger Fablo** | https://github.com/hyperledger-labs/fablo/pull/594| Merged | Co-Commited with others |
 | **Volcano (CNCF)** | **[Website Update (!377)](https://github.com/volcano-sh/website/pull/377)** | Merged | Contributed improvements to the official Volcano documentation site. |
 | **Kubernetes** | **[Core Contribution (!135217)](https://github.com/kubernetes/kubernetes/pull/135217)** | Approved | Contributed code fixes/improvements to the core Kubernetes repository. |
 
