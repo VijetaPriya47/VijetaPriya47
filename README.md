@@ -64,8 +64,8 @@ h2:hover::after{
 | **Hyperledger Fablo** | https://github.com/hyperledger-labs/fablo/pull/594| Merged | Co-Commited with others |
 | **Volcano (CNCF)** | **[Website Update (!377)](https://github.com/volcano-sh/website/pull/377)** | Merged | Contributed improvements to the official Volcano documentation site. |
 | **Kubernetes** | **[Core Contribution (!135217)](https://github.com/kubernetes/kubernetes/pull/135217)** | Approved | Contributed code fixes/improvements to the core Kubernetes repository. |
-| **Kubernetes** | **[Cluster Api (!135217)](https://github.com/kubernetes-sigs/cluster-api/pull/13239)** | Approved | CAPD: Remove finalizers during deletion if ownerRef was never set for cluster controllers |
-| **Kubernetes** | **[Cluster Api (!135217)](https://github.com/kubernetes-sigs/cluster-api/pull/13242)** | Open | ✨Add events for automatic certificate rotation in KubeadmControlPlane |
+| **Kubernetes** | **[Cluster Api (!13239)](https://github.com/kubernetes-sigs/cluster-api/pull/13239)** | Approved | CAPD: Remove finalizers during deletion if ownerRef was never set for cluster controllers |
+| **Kubernetes** | **[Cluster Api (!13242)](https://github.com/kubernetes-sigs/cluster-api/pull/13242)** | Open | ✨Add events for automatic certificate rotation in KubeadmControlPlane |
 
 
 # 📊 GitHub Stats:
