@@ -67,6 +67,19 @@ h2:hover::after{
 | **Kubernetes** | **[Cluster Api (!13239)](https://github.com/kubernetes-sigs/cluster-api/pull/13239)** | Approved | CAPD: Remove finalizers during deletion if ownerRef was never set for cluster controllers |
 | **Kubernetes** | **[Cluster Api (!13242)](https://github.com/kubernetes-sigs/cluster-api/pull/13242)** | Open | ✨Add events for automatic certificate rotation in KubeadmControlPlane |
 
+### Open Source Contributions
+Working on:
+CAPI:
+https://github.com/kubernetes-sigs/cluster-api/issues/12920  - MachineDrainRules WaitCompleted behavior still waits for completed Pods
+#12920
+
+https://github.com/kubernetes-sigs/cluster-api/issues/12553 - Add maxRetry to RemediationStrategy in Machinedeployment #12553
+Open
+
+Jaeger:
+[Feature]: Support max_recv_msg_size_mib for gRPC storage client
+#7670 - https://github.com/prometheus/prometheus/issues/17823
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=VijetaPriya47&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)<br/>
