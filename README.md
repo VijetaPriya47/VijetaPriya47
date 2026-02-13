@@ -67,8 +67,8 @@ h2:hover::after{
 | **Kubernetes - CAPI** | **[Cluster Api (!13239)](https://github.com/kubernetes-sigs/cluster-api/pull/13239)** | Approved | CAPD: Remove finalizers during deletion if ownerRef was never set for cluster controllers |
 | **Kubernetes - CAPI** | **[Cluster Api (!13242)](https://github.com/kubernetes-sigs/cluster-api/pull/13242)** | Open | ✨Add events for automatic certificate rotation in KubeadmControlPlane |
 | **Kubernetes - CAPA** | **[Cluster Api (!5861)](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5861)** | Open | 🐛fix(test): resolve flaky TestROSANetworkReconciler_Reconcile by using Eventually |
-| **CAPA - ISSUES** | **[Cluster Api (!12920)](https://github.com/kubernetes-sigs/cluster-api/issues/12920)** | Open | MachineDrainRules WaitCompleted behavior still waits for completed Pods |
-| **CAPA - ISSUES** | **[Cluster Api (!12553)](https://github.com/kubernetes-sigs/cluster-api/issues/12553)** | Open | Add maxRetry to RemediationStrategy in Machinedeployment |
+| **CAPI - ISSUES** | **[Cluster Api (!12920)](https://github.com/kubernetes-sigs/cluster-api/issues/12920)** | Open | MachineDrainRules WaitCompleted behavior still waits for completed Pods |
+| **CAPI - ISSUES** | **[Cluster Api (!12553)](https://github.com/kubernetes-sigs/cluster-api/issues/12553)** | Open | Add maxRetry to RemediationStrategy in Machinedeployment |
 
 
 
