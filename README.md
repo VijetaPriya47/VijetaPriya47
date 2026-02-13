@@ -69,6 +69,8 @@ h2:hover::after{
 | **Kubernetes - CAPA** | **[Cluster Api (!5861)](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5861)** | Open | 🐛fix(test): resolve flaky TestROSANetworkReconciler_Reconcile by using Eventually |
 | **CAPI - ISSUES** | **[Cluster Api (!12920)](https://github.com/kubernetes-sigs/cluster-api/issues/12920)** | Open | MachineDrainRules WaitCompleted behavior still waits for completed Pods |
 | **CAPI - ISSUES** | **[Cluster Api (!12553)](https://github.com/kubernetes-sigs/cluster-api/issues/12553)** | Open | Add maxRetry to RemediationStrategy in Machinedeployment |
+| **CAPI\** | **[Cluster Api (!13243)](https://github.com/kubernetes-sigs/cluster-api/pull/13243)** | Open | ✨ Draft: Add ApplyConfiguration support for Cluster API types |
+
 
 
 
